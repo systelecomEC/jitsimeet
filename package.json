@@ -15,7 +15,7 @@
     "haste-resolver-webpack-plugin": "^0.2.1",
     "html-webpack-plugin": "^2.19.0",
     "jitsi-meet-logger": "jitsi/jitsi-meet-logger",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.1",
     "lib-jitsi-meet": "jitsi/lib-jitsi-meet#d6a3e8f",
     "react": "15.3.1",
     "react-dom": "15.3.1",
